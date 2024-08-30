@@ -1,6 +1,6 @@
 # pygame-tetris
 
-***ill put an image here***
+![image](https://github.com/user-attachments/assets/69c7d18d-dfbb-476d-a46f-389e757becad)
 
 Had a school project to make a game using pygame so i made Tetris.
 This is a very simple version of Tetris that is missing sprites, the score-counter, any text, as well as a game over screen meaning that when you loose the window just closes.
