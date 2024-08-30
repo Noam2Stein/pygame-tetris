@@ -143,6 +143,7 @@ def rotate_piece():
 # game loop
 
 pygame.init()
+pygame.display.set_caption("Tetris")
 surface = pygame.display.set_mode((surface_width, surface_height))
 
 next_pieces = PieceQueue()
